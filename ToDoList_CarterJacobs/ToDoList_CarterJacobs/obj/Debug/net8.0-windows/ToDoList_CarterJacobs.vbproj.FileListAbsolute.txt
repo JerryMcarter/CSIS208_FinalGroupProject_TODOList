@@ -1,0 +1,16 @@
+C:\Users\jcart\OneDrive\Desktop\LU Spring '24\CSIS208\Assignments\ToDoList_CarterJacobs\ToDoList_CarterJacobs\obj\Debug\net8.0-windows\ToDoList_CarterJacobs.frmToDo.resources
+C:\Users\jcart\OneDrive\Desktop\LU Spring '24\CSIS208\Assignments\ToDoList_CarterJacobs\ToDoList_CarterJacobs\obj\Debug\net8.0-windows\ToDoList_CarterJacobs.vbproj.GenerateResource.cache
+C:\Users\jcart\OneDrive\Desktop\LU Spring '24\CSIS208\Assignments\ToDoList_CarterJacobs\ToDoList_CarterJacobs\obj\Debug\net8.0-windows\ToDoList_CarterJacobs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcart\OneDrive\Desktop\LU Spring '24\CSIS208\Assignments\ToDoList_CarterJacobs\ToDoList_CarterJacobs\obj\Debug\net8.0-windows\ToDoList_CarterJacobs.AssemblyInfoInputs.cache
+C:\Users\jcart\OneDrive\Desktop\LU Spring '24\CSIS208\Assignments\ToDoList_CarterJacobs\ToDoList_CarterJacobs\obj\Debug\net8.0-windows\ToDoList_CarterJacobs.AssemblyInfo.vb
+C:\Users\jcart\OneDrive\Desktop\LU Spring '24\CSIS208\Assignments\ToDoList_CarterJacobs\ToDoList_CarterJacobs\obj\Debug\net8.0-windows\ToDoList_CarterJacobs.vbproj.CoreCompileInputs.cache
+C:\Users\jcart\OneDrive\Desktop\LU Spring '24\CSIS208\Assignments\ToDoList_CarterJacobs\ToDoList_CarterJacobs\bin\Debug\net8.0-windows\ToDoList_CarterJacobs.exe
+C:\Users\jcart\OneDrive\Desktop\LU Spring '24\CSIS208\Assignments\ToDoList_CarterJacobs\ToDoList_CarterJacobs\bin\Debug\net8.0-windows\ToDoList_CarterJacobs.deps.json
+C:\Users\jcart\OneDrive\Desktop\LU Spring '24\CSIS208\Assignments\ToDoList_CarterJacobs\ToDoList_CarterJacobs\bin\Debug\net8.0-windows\ToDoList_CarterJacobs.runtimeconfig.json
+C:\Users\jcart\OneDrive\Desktop\LU Spring '24\CSIS208\Assignments\ToDoList_CarterJacobs\ToDoList_CarterJacobs\bin\Debug\net8.0-windows\ToDoList_CarterJacobs.dll
+C:\Users\jcart\OneDrive\Desktop\LU Spring '24\CSIS208\Assignments\ToDoList_CarterJacobs\ToDoList_CarterJacobs\bin\Debug\net8.0-windows\ToDoList_CarterJacobs.pdb
+C:\Users\jcart\OneDrive\Desktop\LU Spring '24\CSIS208\Assignments\ToDoList_CarterJacobs\ToDoList_CarterJacobs\obj\Debug\net8.0-windows\ToDoList_CarterJacobs.dll
+C:\Users\jcart\OneDrive\Desktop\LU Spring '24\CSIS208\Assignments\ToDoList_CarterJacobs\ToDoList_CarterJacobs\obj\Debug\net8.0-windows\refint\ToDoList_CarterJacobs.dll
+C:\Users\jcart\OneDrive\Desktop\LU Spring '24\CSIS208\Assignments\ToDoList_CarterJacobs\ToDoList_CarterJacobs\obj\Debug\net8.0-windows\ToDoList_CarterJacobs.pdb
+C:\Users\jcart\OneDrive\Desktop\LU Spring '24\CSIS208\Assignments\ToDoList_CarterJacobs\ToDoList_CarterJacobs\obj\Debug\net8.0-windows\ToDoList_CarterJacobs.genruntimeconfig.cache
+C:\Users\jcart\OneDrive\Desktop\LU Spring '24\CSIS208\Assignments\ToDoList_CarterJacobs\ToDoList_CarterJacobs\obj\Debug\net8.0-windows\ref\ToDoList_CarterJacobs.dll
